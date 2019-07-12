@@ -3,7 +3,7 @@ This is a 3D demo program written by me in C++ with OpenGL library. It shows an 
 
 This project was completed on 10/24/2018, and was only uploaded to my Github account recently 
 
-Here is an example of a serious of screen shots taken when running my program with stone texture
+Here is an example of a series of screen shots of my program. It shows a rotating stone block.
 ![alt text](https://raw.githubusercontent.com/yymmaa0000/3D_Rotating_Minecraft_Block_Demo/master/Intro.bmp)
 
 What I am most proud of this project is that I did all the 3D camera projection and vector calculation by myself without using any library.
